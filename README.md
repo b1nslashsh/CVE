@@ -1,4 +1,4 @@
-# CVE  
+# CVE Tracker
 CVE (Common Vulnerabilities and Exposures) assigned to me for identifying vulnerabilities in various open-source applications and projects.
 
 - 🐞 **[CVE-2021-3866](https://www.cve.org/CVERecord?id=CVE-2021-3866)**
