@@ -21,4 +21,4 @@ CVE (Common Vulnerabilities and Exposures) assigned to me for identifying vulner
 - 🐞 **[CVE-2020-28456](https://www.cve.org/CVERecord?id=CVE-2020-28456)**
   - ⚠️ **Medium** 🔎 *Cross-site Scripting (XSS) - Stored in [s-cart/s-cart](https://github.com/s-cart/s-cart)* 📅 *Nov 20th 2020* $~~$ ![GitHub Repo stars](https://img.shields.io/github/stars/s-cart/s-cart?style=social)
 # Security Findings and Fixes   
-All of my other security findings and fixes, including XXE, Zip Slip, and more, are listed here. : https://huntr.io/users/b1nslashsh
+All of my other security findings and fixes, including XXE, Zip Slip, and more, are listed here. : https://huntr.com/users/b1nslashsh
